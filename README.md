@@ -103,6 +103,6 @@ Follow these instructions to set up the project locally.
 
 For any inquiries or issues, please contact:
 
-- **Sudipta Das**
+- **Md. hasan saik**
 - **Email**: shiningsudipto@gmail.com
 - **GitHub**: [shiningsudipto](https://github.com/shiningsudipto)
