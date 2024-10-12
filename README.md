@@ -1,8 +1,8 @@
-<!-- ## Live URL: https://fitness-tools-mu.vercel.app/ -->
+<!-- ## Live URL: https://l2ass4-fitness-tools-client.vercel.app/-->
 
 # Fitness Tolls
 
-### Live URL: https://fitness-tools-mu.vercel.app
+### Live URL: https://l2ass4-fitness-tools-client.vercel.app/
 
 ## Project Overview
 
@@ -40,7 +40,7 @@ Follow these instructions to set up the project locally.
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/shiningsudipto/fitness-tools-client.git
+   git clone https://github.com/hasansaik81/2ass4-fitness-tools-client
    cd fitness-tolls
    ```
 
@@ -59,7 +59,7 @@ Follow these instructions to set up the project locally.
    npm run dev
    ```
 
-2. **Open your browser** and navigate to `http://
+2. **Open your browser** and navigate to `http://localhost:5000
 
 ## Usage
 
@@ -103,6 +103,6 @@ Follow these instructions to set up the project locally.
 
 For any inquiries or issues, please contact:
 
-- **Md. hasan saik**
-- **Email**: shiningsudipto@gmail.com
-- **GitHub**: [shiningsudipto](https://github.com/shiningsudipto)
+- **Md. Hasan Saik**
+- **Email**: hasansaik81@gmail.com
+- **GitHub**: [hasansaik81](https://github.com/hasansaik81)
